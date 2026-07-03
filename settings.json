@@ -1,0 +1,24 @@
+{
+ "max_numbers_per_user": 10000,
+ "welcome_message": "\u26a1  \ud835\ude42\ud835\ude3c\ud835\ude49\ud835\ude45\ud835\ude3c \ud835\ude4a\ud835\ude4f\ud835\ude4b \ud835\ude4b\ud835\ude3c\ud835\ude49\ud835\ude40\ud835\ude47 \ud835\ude3d\ud835\ude4a\ud835\ude4f   \u26a1 \n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udfe2 \ud835\udde3\ud835\uddff\ud835\uddf2\ud835\uddfa\ud835\uddf6\ud835\ude02\ud835\uddfa & \u26a1 \ud835\uddd9\ud835\uddee\ud835\ude00\ud835\ude01 \ud835\udde6\ud835\uddf2\ud835\uddff\ud835\ude03\ud835\uddf6\ud835\uddf0\ud835\uddf2 \ud83d\udfe2",
+ "otp_group_url": "https://t.me/ganja_otp_group",
+ "channel_url": "https://t.me/GANJAOTP",
+ "support_username": "@GANJABOSS_1",
+ "maintenance_mode": false,
+ "min_withdraw": 2.0,
+ "max_withdraw": 5.0,
+ "api_key": "mino_live_43b5cf7151b4c17c0a14623cb5085ede",
+ "base_url": "https://mino-sms-panel.xyz",
+ "cooldown_time": 3.0,
+ "force_join_enabled": true,
+ "force_join_channels": [
+  "@GANJAOTP",
+  "@ganja_otp_group",
+  "@fbidbuysellbysojib"
+ ],
+ "join_alert_enabled": false,
+ "otp_reward": 0.001,
+ "refer_bonus": 0.05,
+ "numbers_per_request": 2,
+ "auto_range": false
+}
