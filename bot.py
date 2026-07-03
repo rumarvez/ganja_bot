@@ -270,7 +270,7 @@ PREMIUM_FLAGS = {
     "🇿🇼": "5911092502265336396"
 }
 
-def p_em(key: str, fallback: str = "⭐") -> str:
+def p_em(key: str, fallback: str = "⚡") -> str:
     key_clean = str(key).strip().lower()
     if key_clean in EMOJI_ID_MAP:
         return f'<tg-emoji emoji-id="{EMOJI_ID_MAP[key_clean]}">{fallback}</tg-emoji>'
